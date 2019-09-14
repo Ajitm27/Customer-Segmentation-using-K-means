@@ -1,1 +1,1 @@
-# MNIST-classification-using-Deep-Neural-Networks
+  # Customer Segmentation using K-menas clustering
